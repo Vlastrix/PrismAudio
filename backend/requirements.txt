@@ -4,3 +4,6 @@ python-multipart
 demucs
 ffmpeg-python
 numpy<2
+soundfile
+torch==2.1.2
+torchaudio==2.1.2

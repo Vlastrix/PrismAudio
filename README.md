@@ -2,7 +2,7 @@
 
 PrismAudio es una aplicación web impulsada por Inteligencia Artificial para separar la voz y la parte instrumental de archivos de audio y video.
 
-## 🚀 Instalación y Setup (PC de la Abuela / Usuario Final)
+## 🚀 Instalación y Setup (Usuario Final)
 
 Para que funcione en otra computadora sin complicaciones, hemos simplificado todo para que solo requiera **Python**.
 
@@ -21,7 +21,7 @@ Para que funcione en otra computadora sin complicaciones, hemos simplificado tod
 
 ---
 
-## 🛠️ Setup para Desarrolladores (Tu caso)
+## 🛠️ Setup para Desarrolladores
 
 Si quieres modificar el código, necesitas ejecutar Backend y Frontend por separado.
 
