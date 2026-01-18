@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+demucs
+ffmpeg-python
+numpy<2
